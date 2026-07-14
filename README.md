@@ -118,9 +118,6 @@ motto: "First, solve the problem. Then, write the code."
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/>
-  &nbsp;
-  <!-- Note: This requires WakaTime account linked to github-readme-stats -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/wakatime?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" width="48%" alt="WakaTime Stats"/>
 </div>
 
 ---
@@ -174,13 +171,6 @@ motto: "First, solve the problem. Then, write the code."
 _Your latest blog posts or medium articles will auto-appear here once workflow is active_
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
-<!-- Note: Requires Spotify API setup via vercel app -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=saksham-dev07&cover_image=true&theme=novatorem&color=6c63ff&background_color=0d1117">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=saksham-dev07&cover_image=true&theme=novatorem&color=6c63ff&background_color=0d1117" width="50%" alt="Spotify Now Playing"/>
-</a>
-
 </div>
 
 ---
@@ -192,9 +182,9 @@ _Your latest blog posts or medium articles will auto-appear here once workflow i
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-saksham--dev07-181717?style=flat-square&logo=github)](https://github.com/saksham-dev07)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6c63ff?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/saksham-dev07/My-Portfolio)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-agarwal-b44910289/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6c63ff?style=flat-square&logo=googlechrome&logoColor=white)](https://sakshamdev-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakmmm07@gmail.com)
 
 </div>
 
