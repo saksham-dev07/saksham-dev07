@@ -8,18 +8,22 @@
 
 <br/>
 
-<!-- BADGES -->
+<!-- BADGES & VISITORS -->
 [![Profile Views](https://komarev.com/ghpvc/?username=saksham-dev07&style=flat-square&color=6c63ff&label=Profile+Views)](https://github.com/saksham-dev07)
 &ensp;•&ensp;
 [![Followers](https://img.shields.io/github/followers/saksham-dev07?label=Followers&style=flat-square&color=6c63ff&labelColor=1a1b27)](https://github.com/saksham-dev07?tab=followers)
 &ensp;•&ensp;
 [![Stars](https://img.shields.io/github/stars/saksham-dev07?label=Stars&style=flat-square&color=6c63ff&labelColor=1a1b27)](https://github.com/saksham-dev07)
+&ensp;•&ensp;
+[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square)](https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07)
 
 </div>
 
 ---
 
-### 👋 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/>
+</div>
 
 ```yaml
 name: Saksham Agarwal
@@ -41,7 +45,9 @@ motto: "First, solve the problem. Then, write the code."
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/>
+</div>
 
 <table>
 <tr>
@@ -80,7 +86,9 @@ motto: "First, solve the problem. Then, write the code."
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/>
+</div>
 
 <div align="center">
 
@@ -109,12 +117,17 @@ motto: "First, solve the problem. Then, write the code."
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/>
+  &nbsp;
+  <!-- Note: This requires WakaTime account linked to github-readme-stats -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/wakatime?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" width="48%" alt="WakaTime Stats"/>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/>
+</div>
 
 <div align="center">
 
@@ -135,7 +148,9 @@ motto: "First, solve the problem. Then, write the code."
 
 ---
 
-### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/>
+</div>
 
 <div align="center">
   <picture>
@@ -149,7 +164,30 @@ motto: "First, solve the problem. Then, write the code."
 
 ---
 
-### 📫 Connect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Latest%20Activity&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Activity Header"/>
+</div>
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+_Your latest blog posts or medium articles will auto-appear here once workflow is active_
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<!-- Note: Requires Spotify API setup via vercel app -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=saksham-dev07&cover_image=true&theme=novatorem&color=6c63ff&background_color=0d1117">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=saksham-dev07&cover_image=true&theme=novatorem&color=6c63ff&background_color=0d1117" width="50%" alt="Spotify Now Playing"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/>
+</div>
 
 <div align="center">
 
