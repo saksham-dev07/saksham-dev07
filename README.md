@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=200&section=header&text=Saksham%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20AI/ML%20•%20Cloud%20•%20Cybersecurity&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=200&section=header&text=Saksham%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20AI/ML%20•%20Cloud%20•%20Cybersecurity&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
+</a>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+code;AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Open+Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
@@ -198,6 +200,8 @@ motto: "First, solve the problem. Then, write the code."
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
+</a>
 
 </div>
