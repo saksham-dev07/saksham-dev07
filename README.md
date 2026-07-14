@@ -27,10 +27,10 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/></a>
 </div>
 
 ```yaml
@@ -51,10 +51,10 @@ fun_fact: "Built a Hand-Gesture Controlled Ping Pong Game using Computer Vision 
 motto: "First, solve the problem. Then, write the code."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
 </div>
 
 <table>
@@ -63,39 +63,39 @@ motto: "First, solve the problem. Then, write the code."
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4" />
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4" /></a>
 
 </td>
 <td valign="top" width="25%">
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,mongodb,postgres,prisma&perline=4" />
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,mongodb,postgres,prisma&perline=4" /></a>
 
 </td>
 <td valign="top" width="25%">
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" /></a>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 </td>
 <td valign="top" width="25%">
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,bash&perline=4" />
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,bash&perline=4" /></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/></a>
 </div>
 
 <div align="center">
@@ -119,19 +119,19 @@ motto: "First, solve the problem. Then, write the code."
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-dev07&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+  <a href="https://github.com/saksham-dev07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-dev07&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/>
+  <a href="https://github.com/saksham-dev07"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
 </div>
 
 <div align="center">
@@ -151,36 +151,38 @@ motto: "First, solve the problem. Then, write the code."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/></a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake.svg" />
+      <img alt="Snake animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
+    </picture>
+  </a>
 </div>
 
 > ⚙️ **Setup:** Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` — see instructions below.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Dev%20Humor&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Humor Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Dev%20Humor&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Humor Header"/></a>
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Programming Joke" />
+  <a href="#"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Programming Joke" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/></a>
 </div>
 
 <div align="center">
@@ -196,7 +198,7 @@ motto: "First, solve the problem. Then, write the code."
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="512"/>
+<a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="512"/></a>
 
 <br/>
 
