@@ -17,9 +17,15 @@
 &ensp;•&ensp;
 [![Visitors Map](https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square)](https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07)
 
+<br/>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Collaborations-6c63ff?style=flat-square&logo=github&logoColor=white)](#)
+
 </div>
 
----
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/>
@@ -43,7 +49,7 @@ fun_fact: "Built a Hand-Gesture Controlled Ping Pong Game using Computer Vision 
 motto: "First, solve the problem. Then, write the code."
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/>
@@ -84,7 +90,7 @@ motto: "First, solve the problem. Then, write the code."
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/>
@@ -120,7 +126,7 @@ motto: "First, solve the problem. Then, write the code."
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/>
@@ -143,7 +149,7 @@ motto: "First, solve the problem. Then, write the code."
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/>
@@ -159,21 +165,17 @@ motto: "First, solve the problem. Then, write the code."
 
 > ⚙️ **Setup:** Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` — see instructions below.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Latest%20Activity&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Activity Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Dev%20Humor&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Humor Header"/>
 </div>
 
 <div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-_Your latest blog posts or medium articles will auto-appear here once workflow is active_
-<!-- BLOG-POST-LIST:END -->
-
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Programming Joke" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/>
@@ -188,13 +190,13 @@ _Your latest blog posts or medium articles will auto-appear here once workflow i
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="512"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
 
