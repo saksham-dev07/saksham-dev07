@@ -40,6 +40,7 @@ current_focus:
   - BlockForge — Browser Ad-Block Extension
   - NL App Compiler — Natural Language to Code
   - Deepfake Forensics with Explainable AI
+  - ExpenseLens - Finance Tracker
 
 interests:
   - Explainable AI & Deep Learning
