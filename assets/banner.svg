@@ -133,7 +133,4 @@
   <!-- Subtitle -->
   <text x="450" y="142" text-anchor="middle" class="subtitle">FULL-STACK ENGINEER  •  AI AGENTS &amp; ML  •  CYBERSECURITY</text>
 
-  <!-- Decorative Accent Dots -->
-  <circle cx="340" cy="137" r="2.5" fill="#6C63FF" />
-  <circle cx="560" cy="137" r="2.5" fill="#00F5FF" />
 </svg>
