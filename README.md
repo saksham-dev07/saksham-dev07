@@ -255,14 +255,24 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 <img src="./assets/divider.svg" width="100%" />
 
 <!-- CONTRIBUTION SNAKE -->
-<div id="-contribution-snake">
-  <h2 align="center">🐍 Contribution Snake</h2>
+<div id="-contribution-snake" align="center">
+  <h2>🕹️ Contribution Activity &amp; Snake</h2>
+  <p><i>Interactive visualization of my daily commit matrix and development journey</i></p>
 </div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table width="100%" style="max-width: 900px;">
+    <!-- Terminal Titlebar -->
     <tr>
-      <td align="center" style="background-color: #121624; border-radius: 10px; padding: 12px; border: 1px solid #282f45;">
+      <td bgcolor="#161b22" style="border-top-left-radius: 8px; border-top-right-radius: 8px; padding: 10px 14px; border: 1px solid #30363d; border-bottom: none;">
+        <span style="color: #ff5f56; font-size: 13px;">●</span>&nbsp;<span style="color: #ffbd2e; font-size: 13px;">●</span>&nbsp;<span style="color: #27c93f; font-size: 13px;">●</span>
+        &ensp;&ensp;
+        <code style="color: #8b949e; font-size: 12px; font-family: monospace;">saksham@github:~/contributions$ snk --palette=tokyonight-purple</code>
+      </td>
+    </tr>
+    <!-- Terminal Body -->
+    <tr>
+      <td bgcolor="#0d1117" align="center" style="border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; padding: 16px; border: 1px solid #30363d;">
         <a href="https://github.com/saksham-dev07">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
@@ -273,6 +283,16 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Auto_Sync-Every_12_Hours-6c63ff?style=flat-square&logo=githubactions&logoColor=white" alt="Sync" />
+    &ensp;
+    <img src="https://img.shields.io/badge/Theme-Tokyo_Night_Purple-6C63FF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Theme" />
+    &ensp;
+    <img src="https://img.shields.io/badge/Engine-Platane%2Fsnk-8B5CF6?style=flat-square&logo=apachespark&logoColor=white" alt="Engine" />
+  </p>
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
