@@ -260,13 +260,19 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 </div>
 
 <div align="center">
-  <a href="https://github.com/saksham-dev07">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake.svg" />
-      <img alt="Snake Animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
-    </picture>
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="background-color: #121624; border-radius: 10px; padding: 12px; border: 1px solid #282f45;">
+        <a href="https://github.com/saksham-dev07">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake.svg" />
+            <img alt="Snake Animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
