@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/saksham-dev07">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Saksham%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%26%20ML%20Researcher%20%7C%20Cybersecurity&descSize=16&descAlignY=58&descColor=8b949e" width="100%" alt="Saksham Agarwal Banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="Saksham Agarwal Banner"/>
 </a>
 
 <!-- TYPING SVG ANIMATION -->
@@ -37,11 +37,11 @@
 
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- ABOUT ME SECTION -->
-<div align="center" id="-about-me">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/></a>
+<div id="-about-me">
+  <h2 align="center">👨‍💻 About Me</h2>
 </div>
 
 ```yaml
@@ -92,11 +92,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
   </table>
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- TECH STACK SECTION -->
-<div align="center" id="-tech-stack">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
+<div id="-tech-stack">
+  <h2 align="center">🛠️ Tech Stack & Skills</h2>
 </div>
 
 <div align="center">
@@ -171,11 +171,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- FEATURED PROJECTS SECTION -->
-<div align="center" id="-featured-projects">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
+<div id="-featured-projects">
+  <h2 align="center">🌟 Featured Projects</h2>
 </div>
 
 <div align="center">
@@ -212,11 +212,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- GITHUB ANALYTICS & STATS -->
-<div align="center" id="-github-analytics">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/></a>
+<div id="-github-analytics">
+  <h2 align="center">📊 GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -256,11 +256,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- CONTRIBUTION SNAKE -->
-<div align="center" id="-contribution-snake">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/></a>
+<div id="-contribution-snake">
+  <h2 align="center">🐍 Contribution Snake</h2>
 </div>
 
 <div align="center">
@@ -273,7 +273,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
   </a>
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- DEV HUMOR & INSPIRATION -->
 <div align="center">
@@ -293,11 +293,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
   </table>
 </div>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<img src="./assets/divider.svg" width="100%" />
 
 <!-- CONNECT WITH ME -->
-<div align="center" id="-connect-with-me">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/></a>
+<div id="-connect-with-me">
+  <h2 align="center">📬 Connect With Me</h2>
 </div>
 
 <div align="center">
@@ -328,11 +328,11 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- FOOTER BANNER -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,30:4d44b5,70:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner"/>
 </a>
 
 <p align="center">
-  <sub>⭐️ Designed & Crafted with passion by <b>Saksham Agarwal</b> | &copy; 2026</sub>
+  <sub>⭐️ Designed &amp; Crafted with passion by <b>Saksham Agarwal</b> | &copy; 2026</sub>
 </p>
 
 </div>
