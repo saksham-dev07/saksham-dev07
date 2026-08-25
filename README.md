@@ -1,210 +1,348 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HERO BANNER -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=200&section=header&text=Saksham%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20AI/ML%20•%20Cloud%20•%20Cybersecurity&descSize=16&descAlignY=58&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1b27,70:4d44b5,100:6c63ff&height=220&section=header&text=Saksham%20Agarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Agents%20%26%20ML%20Researcher%20•%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=a3b1cc" width="100%" alt="Saksham Agarwal Banner"/>
 </a>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+code;AI+%2F+ML+Engineer+%26+Full-Stack+Developer;Open+Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
+<!-- TYPING SVG ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+MCP+Systems+%F0%9F%A4%96;Full-Stack+Architect+%26+Real-Time+Web+Apps+%E2%9A%A1;Deepfake+Forensics+%E2%80%A2+Computer+Vision+%E2%80%A2+XAI+%F0%9F%94%8D;Open+Source+Contributor+%26+Lifelong+Problem+Solver+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- BADGES & VISITORS -->
-[![Profile Views](https://komarev.com/ghpvc/?username=saksham-dev07&style=flat-square&color=6c63ff&label=Profile+Views)](https://github.com/saksham-dev07)
-&ensp;•&ensp;
-[![Followers](https://img.shields.io/github/followers/saksham-dev07?label=Followers&style=flat-square&color=6c63ff&labelColor=1a1b27)](https://github.com/saksham-dev07?tab=followers)
-&ensp;•&ensp;
-[![Stars](https://img.shields.io/github/stars/saksham-dev07?label=Stars&style=flat-square&color=6c63ff&labelColor=1a1b27)](https://github.com/saksham-dev07)
-&ensp;•&ensp;
-[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square)](https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07)
+<!-- QUICK NAVIGATION -->
+<p align="center">
+  <a href="#-about-me"><b>About Me</b></a> •
+  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-featured-projects"><b>Featured Projects</b></a> •
+  <a href="#-github-analytics"><b>GitHub Analytics</b></a> •
+  <a href="#-contribution-snake"><b>Contributions</b></a> •
+  <a href="#-connect-with-me"><b>Connect</b></a>
+</p>
 
-<br/>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Open to Work](https://img.shields.io/badge/Status-Open_to_Collaborations-6c63ff?style=flat-square&logo=github&logoColor=white)](#)
+<!-- BADGES & METRICS -->
+<p align="center">
+  <a href="https://github.com/saksham-dev07">
+    <img src="https://komarev.com/ghpvc/?username=saksham-dev07&style=flat-square&color=6c63ff&label=Profile+Views" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/saksham-dev07?tab=followers">
+    <img src="https://img.shields.io/github/followers/saksham-dev07?label=Followers&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/saksham-dev07?tab=repositories">
+    <img src="https://img.shields.io/github/stars/saksham-dev07?label=Total%20Stars&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=apachespark&logoColor=gold" alt="Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/saksham-dev07">
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-6c63ff?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27" alt="Status" />
+  </a>
+  &nbsp;
+  <a href="https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07">
+    <img src="https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square&labelColor=%231a1b27" alt="Visitors Badge" />
+  </a>
+</p>
 
 </div>
 
-<br/>
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/></a>
+<!-- ABOUT ME SECTION -->
+<div align="center" id="-about-me">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=👨‍💻%20About%20Me&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="About Me Header"/></a>
 </div>
 
 ```yaml
-name: Saksham Agarwal
-location: India 🇮🇳
-current_focus:
-  - BlockForge — Browser Ad-Block Extension
-  - NL App Compiler — Natural Language to Code
-  - Deepfake Forensics with Explainable AI
-  - ExpenseLens - Finance Tracker
+developer:
+  name: Saksham Agarwal
+  origin: India 🇮🇳
+  role: Full-Stack Engineer & Autonomous AI / ML Researcher
+  core_philosophy: "First, solve the problem. Then, write elegant, performant code."
 
-interests:
-  - Explainable AI & Deep Learning
-  - Full-Stack Web Development
-  - Cloud Architecture & DevOps
-  - Cybersecurity & Malware Analysis
+current_endeavors:
+  active_projects:
+    - Eco-Loop Building Agents: "Multi-agent autonomous energy optimization via Model Context Protocol (MCP)"
+    - SentinelScrape: "Autonomous self-healing market radar & AI compute scraper"
+    - NexusBoard: "Real-time collaborative infinite canvas & whiteboard engine"
+    - BlockForge: "Ultra-fast browser ad & tracker blocker built on Manifest V3"
+    - Deepfake Forensics: "Interpretable deepfake detection using Explainable AI (XAI)"
+    - Last-Mile Delivery: "Logistics tracking system powered by FastAPI, React & Leaflet"
+    - ExpenseLens: "AI-driven OCR receipt scanning and automated expense analytics"
 
-fun_fact: "Built a Hand-Gesture Controlled Ping Pong Game using Computer Vision 🏓"
-motto: "First, solve the problem. Then, write the code."
+domains_of_interest:
+  - Autonomous Multi-Agent Systems & Model Context Protocol (MCP)
+  - Deep Learning, Computer Vision & Explainable AI (XAI)
+  - Real-Time Full-Stack Applications, WebSockets & Distributed Systems
+  - Cloud Infrastructure, DevOps & Containerization
+  - Cybersecurity, Threat Analysis & Binary Forensics
+
+fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by OpenCV 🏓"
 ```
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+<br/>
 
 <div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Focus-AI_Agents_%26_Full--Stack-6c63ff?style=for-the-badge&logo=codeigniter&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Open_To-Internships_%26_Roles-6c63ff?style=for-the-badge&logo=briefcase&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Passion-Open_Source-6c63ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-6c63ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<table>
-<tr>
-<td valign="top" width="25%">
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-**Frontend**
+<!-- TECH STACK SECTION -->
+<div align="center" id="-tech-stack">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🛠️%20Tech%20Stack%20&%20Skills&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Tech Stack Header"/></a>
+</div>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4" /></a>
+<div align="center">
 
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp,mongodb,postgres,prisma&perline=4" /></a>
-
-</td>
-<td valign="top" width="25%">
-
-**AI / ML**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" /></a>
-
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
-
-</td>
-<td valign="top" width="25%">
-
-**DevOps & Tools**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,bash&perline=4" /></a>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Languages</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,bash&perline=4" alt="Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ Frontend & Frameworks</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,materialui&perline=4" alt="Frontend" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Backend & Databases</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,prisma&perline=4" alt="Backend & Databases" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/WebSockets-Real--Time-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI / ML & Agentic Systems</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" alt="AI/ML" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Cloud, DevOps & Systems</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,git,vercel&perline=4" alt="Cloud & DevOps" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Security & Developer Tools</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,postman,github,vite&perline=4" alt="Tools" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/YARA-Security_Rules-red?style=flat-square&logo=target&logoColor=white" alt="YARA" />
+        <img src="https://img.shields.io/badge/Chrome_APIs-Extension_Dev-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome API" />
+      </p>
+    </td>
+  </tr>
 </table>
 
+</div>
+
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/></a>
+<!-- FEATURED PROJECTS SECTION -->
+<div align="center" id="-featured-projects">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🌟%20Featured%20Projects&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Featured Projects Header"/></a>
 </div>
 
 <div align="center">
 
-<a href="https://github.com/saksham-dev07">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saksham-dev07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saksham-dev07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/saksham-dev07">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saksham-dev07&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
-    <img width="48%" src="https://streak-stats.demolab.com?user=saksham-dev07&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
-  </picture>
-</a>
+### 🤖 Autonomous AI, Agentic Systems & Computer Vision
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **🌿 Eco-Loop Building Agents** | Autonomous Multi-Agent environmental & energy optimization system utilizing **Model Context Protocol (MCP)** and building simulation engines. | `Python` `MCP` `Multi-Agent AI` `EnergyPlus` | [**Code →**](https://github.com/saksham-dev07/Eco-Loop-Building-Agents) |
+| **🔍 Deepfake Forensics** | State-of-the-art Deepfake detection framework integrating Explainable AI (XAI) for transparent facial artifact analysis. | `Python` `PyTorch` `XAI` `OpenCV` | [**Code →**](https://github.com/saksham-dev07/Deepfake-Forensics-with-Explainable-AI) |
+| **🧠 NL App Compiler** | Natural Language to full application compiler translating prompt descriptions directly into structured code. | `JavaScript` `AI / LLM` `Node.js` | [**Code →**](https://github.com/saksham-dev07/NL-App-Compiler) |
+| **📖 AI Story Generator** | Interactive creative narrative generation engine with prompt tuning and branching storyline synthesis. | `JavaScript` `AI` `Prompt Eng` | [**Code →**](https://github.com/saksham-dev07/AI-Story-Generator) |
+| **🏓 Gesture Ping Pong** | Real-time computer vision interactive game driven completely by hand gesture motion tracking. | `Python` `OpenCV` `CVZone` | [**Code →**](https://github.com/saksham-dev07/Hand-Gesture-Controlled-Ping-Pong-Game-main) |
+| **🏥 CKD Classification** | Predictive machine learning classification model for early diagnosis of Chronic Kidney Disease. | `Python` `Scikit-Learn` `Jupyter` | [**Code →**](https://github.com/saksham-dev07/Chronic-Kidney-Disease-Classification) |
+
+### 🛡️ Cybersecurity, Automation & System Software
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **🛡️ SentinelScrape** | Autonomous self-healing AI web scraping radar with real-time DOM anomaly sentinel & zero-downtime loop (Bright Data Hackathon). | `TypeScript` `AI Radar` `Bright Data` `Automation` | [**Code →**](https://github.com/saksham-dev07/Into-the-Scrape-Verse) |
+| **🛡️ BlockForge** | Advanced browser ad & tracker blocker extension built for ultra-fast filtering and zero telemetry leakage. | `JavaScript` `Chrome APIs` `Manifest V3` | [**Code →**](https://github.com/saksham-dev07/Blockforge-Ad-Block-Extension-) |
+| **🦠 Malware Detector** | Automated malware inspection tool leveraging signature-based YARA rules and heuristic behavioral analysis. | `YARA` `Python` `Security Forensics` | [**Code →**](https://github.com/saksham-dev07/Malware-Detector) |
+| **⚡ C++ Systems & Projects** | High-performance C++ applications, CLI tools, mathematical engines, and algorithmic problem solvers. | `C++20` `OOP` `Algorithms` `CLI Systems` | [**Code →**](https://github.com/saksham-dev07/Cpp-projects) |
+
+### 🌐 Real-Time Full-Stack Web & Smart Utilities
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **🎨 NexusBoard** | Real-time collaborative infinite canvas & whiteboard engine featuring live multi-user sync and high-performance drawing. | `React 18` `Tailwind CSS` `WebSockets` `Canvas API` | [**Code →**](https://github.com/saksham-dev07/NexusBoard) |
+| **🚚 Last-Mile Delivery Tracker** | Full-stack logistics routing and real-time delivery tracking platform with dynamic ETA computation and interactive maps. | `Python` `FastAPI` `React` `Leaflet / Maps` | [**Code →**](https://github.com/saksham-dev07/Last-Mile-Delivery-Tracker) |
+| **🧾 ExpenseLens** | Advanced full-stack OCR receipt scanner leveraging AI to automatically parse, categorize, and analyze financial receipts. | `Python` `Tesseract OCR` `FastAPI` `React` | [**Code →**](https://github.com/saksham-dev07/ExpenseLens) |
+| **📝 Docpilot** | Intelligent document processor for automated metadata extraction, categorization, and workflow acceleration. | `TypeScript` `React` `Node.js` | [**Code →**](https://github.com/saksham-dev07/Docpilot) |
+| **🛒 E-Commerce Platform** | Full-scale modern e-commerce storefront with catalog filtering, cart state management, and checkout flows. | `TypeScript` `React` `Tailwind CSS` | [**Code →**](https://github.com/saksham-dev07/E-Commerce-Platform) |
 
 </div>
+
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+
+<!-- GITHUB ANALYTICS & STATS -->
+<div align="center" id="-github-analytics">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=📊%20GitHub%20Analytics&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="GitHub Analytics Header"/></a>
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/saksham-dev07">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saksham-dev07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+          <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saksham-dev07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Saksham's GitHub Stats" />
+        </picture>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/saksham-dev07">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saksham-dev07&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
+          <img width="100%" src="https://streak-stats.demolab.com?user=saksham-dev07&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="Saksham's GitHub Streak" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/saksham-dev07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-dev07&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/></a>
-</div>
+<a href="https://github.com/saksham-dev07">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <a href="https://github.com/saksham-dev07"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/></a>
-</div>
-
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
-
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
-</div>
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**🛡️ BlockForge**](https://github.com/saksham-dev07/Blockforge-Ad-Block-Extension-) | Advanced browser ad-block extension | `JavaScript` `Chrome APIs` |
-| [**🧠 NL App Compiler**](https://github.com/saksham-dev07/NL-App-Compiler) | Natural language to application compiler | `JavaScript` `AI` |
-| [**🔍 Deepfake Forensics**](https://github.com/saksham-dev07/Deepfake-Forensics-with-Explainable-AI) | Deepfake detection with Explainable AI | `Python` `Deep Learning` |
-| [**📖 AI Story Generator**](https://github.com/saksham-dev07/AI-Story-Generator) | AI-powered creative story generation | `JavaScript` `AI` |
-| [**🏓 Gesture Ping Pong**](https://github.com/saksham-dev07/Hand-Gesture-Controlled-Ping-Pong-Game-main) | Hand-gesture controlled game via OpenCV | `Python` `OpenCV` |
-| [**🏥 CKD Classification**](https://github.com/saksham-dev07/Chronic-Kidney-Disease-Classification) | Chronic Kidney Disease ML classifier | `Jupyter` `scikit-learn` |
-| [**📝 Docpilot**](https://github.com/saksham-dev07/Docpilot) | Intelligent document processing tool | `TypeScript` |
-| [**🛒 E-Commerce Platform**](https://github.com/saksham-dev07/E-Commerce-Platform) | Full-stack e-commerce application | `TypeScript` `React` |
-| [**🦠 Malware Detector**](https://github.com/saksham-dev07/Malware-Detector) | YARA-based malware detection tool | `YARA` `Security` |
-| [**💰 Finance Tracker**](https://github.com/saksham-dev07/finance_tracker) | OCR-powered finance tracking app | `CSS` `OCR` |
+<a href="https://github.com/saksham-dev07">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-dev07&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Commit%20Graph" width="95%" alt="Saksham's Activity Graph"/>
+</a>
 
 </div>
 
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/></a>
+<!-- CONTRIBUTION SNAKE -->
+<div align="center" id="-contribution-snake">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🐍%20Contribution%20Snake&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Snake Header"/></a>
 </div>
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/saksham-dev07">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake.svg" />
-      <img alt="Snake animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
+      <img alt="Snake Animation" src="https://raw.githubusercontent.com/saksham-dev07/saksham-dev07/output/github-snake-dark.svg" width="100%" />
     </picture>
   </a>
 </div>
 
-> ⚙️ **Setup:** Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` — see instructions below.
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+
+<!-- DEV HUMOR & INSPIRATION -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/saksham-dev07">
+          <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Developer Joke" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/saksham-dev07">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational Dev Quote" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Dev%20Humor&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Humor Header"/></a>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Programming Joke" /></a>
-</div>
-
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
-
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/></a>
+<!-- CONNECT WITH ME -->
+<div align="center" id="-connect-with-me">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=📬%20Connect%20With%20Me&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Connect Header"/></a>
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-saksham--dev07-181717?style=flat-square&logo=github)](https://github.com/saksham-dev07)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-agarwal-b44910289/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6c63ff?style=flat-square&logo=googlechrome&logoColor=white)](https://sakshamdev-portfolio.vercel.app/)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakmmm07@gmail.com)
+<p align="center">
+  <i>"Let's build something exceptional together — feel free to reach out for collaborations, discussions, or opportunities!"</i>
+</p>
 
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="512"/></a>
+<p align="center">
+  <a href="https://github.com/saksham-dev07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-saksham--dev07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/saksham-agarwal-b44910289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Saksham_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://sakshamdev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sakshamdev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sakmmm07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sakmmm07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br/>
 
+<!-- FOOTER BANNER -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:1a1b27,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,30:4d44b5,70:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </a>
+
+<p align="center">
+  <sub>⭐️ Designed & Crafted with passion by <b>Saksham Agarwal</b> | &copy; 2026</sub>
+</p>
 
 </div>
