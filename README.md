@@ -1,48 +1,38 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1b27,70:4d44b5,100:6c63ff&height=220&section=header&text=Saksham%20Agarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Agents%20%26%20ML%20Researcher%20•%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=a3b1cc" width="100%" alt="Saksham Agarwal Banner"/>
+<a href="https://github.com/saksham-dev07">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Saksham%20Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%26%20ML%20Researcher%20%7C%20Cybersecurity&descSize=16&descAlignY=58&descColor=8b949e" width="100%" alt="Saksham Agarwal Banner"/>
 </a>
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+MCP+Systems+%F0%9F%A4%96;Full-Stack+Architect+%26+Real-Time+Web+Apps+%E2%9A%A1;Deepfake+Forensics+%E2%80%A2+Computer+Vision+%E2%80%A2+XAI+%F0%9F%94%8D;Open+Source+Contributor+%26+Lifelong+Problem+Solver+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+MCP+Systems+%F0%9F%A4%96;Full-Stack+Architect+%26+Real-Time+Web+Apps+%E2%9A%A1;Deepfake+Forensics+%E2%80%A2+Computer+Vision+%E2%80%A2+XAI+%F0%9F%94%8D;Open+Source+Contributor+%26+Lifelong+Problem+Solver+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- QUICK NAVIGATION -->
 <p align="center">
-  <a href="#-about-me"><b>About Me</b></a> •
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-featured-projects"><b>Featured Projects</b></a> •
-  <a href="#-github-analytics"><b>GitHub Analytics</b></a> •
-  <a href="#-contribution-snake"><b>Contributions</b></a> •
+  <a href="#-about-me"><b>About Me</b></a> &ensp;•&ensp;
+  <a href="#-tech-stack"><b>Tech Stack</b></a> &ensp;•&ensp;
+  <a href="#-featured-projects"><b>Featured Projects</b></a> &ensp;•&ensp;
+  <a href="#-github-analytics"><b>GitHub Analytics</b></a> &ensp;•&ensp;
+  <a href="#-contribution-snake"><b>Contributions</b></a> &ensp;•&ensp;
   <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
 <!-- BADGES & METRICS -->
 <p align="center">
-  <a href="https://github.com/saksham-dev07">
-    <img src="https://komarev.com/ghpvc/?username=saksham-dev07&style=flat-square&color=6c63ff&label=Profile+Views" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/saksham-dev07?tab=followers">
-    <img src="https://img.shields.io/github/followers/saksham-dev07?label=Followers&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/saksham-dev07?tab=repositories">
-    <img src="https://img.shields.io/github/stars/saksham-dev07?label=Total%20Stars&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=apachespark&logoColor=gold" alt="Stars" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/saksham-dev07">
-    <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-6c63ff?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27" alt="Status" />
-  </a>
-  &nbsp;
-  <a href="https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07">
-    <img src="https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square&labelColor=%231a1b27" alt="Visitors Badge" />
-  </a>
+  <a href="https://github.com/saksham-dev07"><img src="https://komarev.com/ghpvc/?username=saksham-dev07&style=flat-square&color=6c63ff&label=Profile+Views" alt="Profile Views" /></a>
+  &ensp;•&ensp;
+  <a href="https://github.com/saksham-dev07?tab=followers"><img src="https://img.shields.io/github/followers/saksham-dev07?label=Followers&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=github&logoColor=white" alt="Followers" /></a>
+  &ensp;•&ensp;
+  <a href="https://github.com/saksham-dev07?tab=repositories"><img src="https://img.shields.io/github/stars/saksham-dev07?label=Total%20Stars&style=flat-square&color=6c63ff&labelColor=1a1b27&logo=apachespark&logoColor=gold" alt="Stars" /></a>
+  &ensp;•&ensp;
+  <a href="https://github.com/saksham-dev07"><img src="https://img.shields.io/badge/Status-Open_to_Collaborations-6c63ff?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27" alt="Status" /></a>
+  &ensp;•&ensp;
+  <a href="https://visitorbadge.io/status?path=saksham-dev07.saksham-dev07"><img src="https://api.visitorbadge.io/api/visitors?path=saksham-dev07.saksham-dev07&countColor=%236c63ff&style=flat-square&labelColor=%231a1b27" alt="Visitors Badge" /></a>
 </p>
 
 </div>
@@ -51,7 +41,7 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center" id="-about-me">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=👨‍💻%20About%20Me&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="About Me Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=About%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="About Me Header"/></a>
 </div>
 
 ```yaml
@@ -106,7 +96,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- TECH STACK SECTION -->
 <div align="center" id="-tech-stack">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🛠️%20Tech%20Stack%20&%20Skills&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Tech Stack Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
 </div>
 
 <div align="center">
@@ -185,7 +175,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- FEATURED PROJECTS SECTION -->
 <div align="center" id="-featured-projects">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🌟%20Featured%20Projects&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Featured Projects Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
 </div>
 
 <div align="center">
@@ -226,7 +216,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- GITHUB ANALYTICS & STATS -->
 <div align="center" id="-github-analytics">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=📊%20GitHub%20Analytics&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="GitHub Analytics Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/></a>
 </div>
 
 <div align="center">
@@ -270,7 +260,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- CONTRIBUTION SNAKE -->
 <div align="center" id="-contribution-snake">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=🐍%20Contribution%20Snake&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Snake Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Contribution%20Snake&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Snake Header"/></a>
 </div>
 
 <div align="center">
@@ -307,7 +297,7 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
 
 <!-- CONNECT WITH ME -->
 <div align="center" id="-connect-with-me">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=📬%20Connect%20With%20Me&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Connect Header"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=55&section=header&text=Connect%20With%20Me&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Connect Header"/></a>
 </div>
 
 <div align="center">
