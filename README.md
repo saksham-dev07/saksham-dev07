@@ -240,19 +240,15 @@ fun_fact: "Built a real-time Hand-Gesture Controlled Ping Pong game powered by O
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <a href="https://github.com/saksham-dev07">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" width="55%" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<a href="https://github.com/saksham-dev07">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saksham-dev07&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/saksham-dev07">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-dev07&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Commit%20Graph" width="95%" alt="Saksham's Activity Graph"/>
-</a>
 
 </div>
 
